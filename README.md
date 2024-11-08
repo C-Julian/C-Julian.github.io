@@ -1,2 +1,1 @@
-# C-Julian.github.io
-轮播图
+一个简易的网页轮播图
